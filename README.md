@@ -10,7 +10,7 @@
 **Conclusions:** We here introduced a new method ELPGV, to predict more accurate genetic value from several different basic models in the context of GS. It performed as well as or better than several commonly used methods in a broad range of tasks. The insights gained through the development, testing, and application of ELPGV in the present study can benefit genomics application of machine learning in the future.<br>
 ***`ELPGV`*** is developed by [***Linlin Gu***](https://github.com/GuLinLin)
 
-##The flow chart of PIXANT <br>
+## The flow chart of PIXANT <br>
 ![image](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV.jpg)
 ## Version and download <br>
 * [Linux Version 0.1.0](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV_0.1.0.tar.gz) -First version released on Aug, 6th, 2022<br>
