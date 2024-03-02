@@ -1,4 +1,4 @@
-# ELPGV [![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)](https://github.com/GuLinLin/ELPGV/issues) [![](https://img.shields.io/badge/Release-v1.1.0-important.svg)](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV_0.1.0.tar.gz)) [![](https://img.shields.io/badge/license-GPL3.0-blue.svg)](https://github.com/GuLinLin/ELPGV/blob/main/LICENSE)<br>
+# ELPGV [![](https://img.shields.io/badge/Issues-%2B-brightgreen.svg)](https://github.com/GuLinLin/ELPGV/issues) [![](https://img.shields.io/badge/Release-v1.1.0-important.svg)](https://github.com/GuLinLin/ELPGV/commits/master) [![](https://img.shields.io/badge/license-GPL3.0-blue.svg)](https://github.com/GuLinLin/ELPGV/blob/main/LICENSE)<br>
 
 ## *[E](https://github.com/GuLinLin/ELPGV)nsemble [L](https://github.com/GuLinLin/ELPGV)earning method for [P](https://github.com/GuLinLin/ELPGV)rediction of [G](https://github.com/GuLinLin/ELPGV)enetic [V](https://github.com/GuLinLin/ELPGV)alues*<br>
 
