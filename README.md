@@ -11,7 +11,7 @@
 ***`ELPGV`*** is developed by [***Linlin Gu***](https://github.com/GuLinLin)
 
 ## The flow chart of ELPGV <br>
-![image](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV.jpg)
+![image](https://github.com/GuLinLin/ELPGV/blob/main/Figures.png)
 ## Version and download <br>
 * [Linux Version 0.1.0](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV_0.1.0.tar.gz) -First version released on Aug, 6th, 2022<br>
 * [Windows Version 0.1.0](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV_0.1.0.zip) -First version released on Aug, 6th, 2022<br>
