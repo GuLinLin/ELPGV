@@ -8,7 +8,8 @@
 **Background:** Whole genome variants offer sufficient information for genetic prediction of human disease risk, and prediction of animal and plant breeding values. Many sophisticated statistical algorithms have been developed for enhancing the prediction ability; however, each method has its own advantages and disadvantages, so far, no one method can beat others.<br>
 **Results:** We herein propose an Ensemble Learning method for Prediction for Genetic Value (ELPGV), which assembles predictions from several basic models such as GBLUP, BayesA, BayesB and BayesCπ, to more accurate predictions. We validated ELPGV with a variety of well-known datasets and a serious of simulated datasets. All revealed that ELPGV was able to significantly enhance the prediction ability than any basic models.<br>
 **Conclusions:** We here introduced a new method ELPGV, to predict more accurate genetic value from several different basic models in the context of GS. It performed as well as or better than several commonly used methods in a broad range of tasks. The insights gained through the development, testing, and application of ELPGV in the present study can benefit genomics application of machine learning in the future.<br>
-***`ELPGV`*** is developed by [***Linlin Gu***](https://github.com/GuLinLin)<br>
+***`ELPGV`*** is developed by [***Linlin Gu***](https://github.com/GuLinLin)
+
 ##The flow chart of PIXANT <br>
 ![image](https://github.com/GuLinLin/ELPGV/blob/main/ELPGV.jpg)
 ## Version and download <br>
