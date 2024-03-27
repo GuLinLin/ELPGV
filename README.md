@@ -59,5 +59,5 @@ $ Rscript Bayesian.R phenotype.txt SNP_Matrix.txt /out_path/ /tmp_path/
 If you have any bug reports or questions, please feed back :point_right:[here](https://github.com/GuLinLin/ELPGV/issues):point_left:, or send email to contact:<br>
  
 :e-mail: **Lin-Lin Gu:** linlin-gu@outlook.com <br>
-## Citation <br>
-Gu, LL., Yang, RQ., Wang, ZY. et al. Ensemble learning for integrative prediction of genetic values with genomic variants. BMC Bioinformatics 25, 120 (2024). https://doi.org/10.1186/s12859-024-05720-x(https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05720-x#citeas)<br>
+## Citation
+Gu, LL., Yang, RQ., Wang, ZY. et al. Ensemble learning for integrative prediction of genetic values with genomic variants. BMC Bioinformatics 25, 120 (2024). https://doi.org/10.1186/s12859-024-05720-x
